@@ -1,40 +1,43 @@
 {
-  "result": [
-    {
-      "id": "baa04464-0a67-11ed-861d-0242ac120002",
-      "price": 100.5,
-      "discount_percent": 15,
-      "notes": "10 day return policy",
-      "retailer_name": "new plus medico",
-      "retailer_type": "Pharmacy",
-      "cordinates": {
-        "longitude": 18.6366859515277,
-        "latitude": 73.8448948413134
+    "cart" : {
+        "result": [
+          {
+            "id": "baa04464-0a67-11ed-861d-0242ac120002",
+            "price": 100.5,
+            "discount_percent": 15,
+            "notes": "10 day return policy",
+            "retailer_name": "new plus medico",
+            "retailer_type": "Pharmacy",
+            "cordinates": {
+              "longitude": 18.6366859515277,
+              "latitude": 73.8448948413134
+            }
+          },
+          {
+            "id": "92957a41-5b3d-4c57-b39e-cbde973e1457",
+            "price": 108.8,
+            "discount_percent": 20.9,
+            "notes": "nothing",
+            "retailer_name": "Alisha medical",
+            "retailer_type": "Pharmacy",
+            "cordinates": {
+              "longitude": 18.5541631,
+              "latitude": 73.8708233
+            }
+          },
+          {
+            "id": "e07c4b19-28b3-4a2f-b569-0074c858b3a3",
+            "price": 120.8,
+            "discount_percent": 13,
+            "notes": "hello  gg",
+            "retailer_name": "Dhanashree medical stores",
+            "retailer_type": "Pharmacy",
+            "cordinates": {
+              "longitude": 18.4517395847945,
+              "latitude": 73.8243554905057
+            }
+          }
+        ]
       }
-    },
-    {
-      "id": "92957a41-5b3d-4c57-b39e-cbde973e1457",
-      "price": 108.8,
-      "discount_percent": 20.9,
-      "notes": "nothing",
-      "retailer_name": "Alisha medical",
-      "retailer_type": "Pharmacy",
-      "cordinates": {
-        "longitude": 18.5541631,
-        "latitude": 73.8708233
-      }
-    },
-    {
-      "id": "e07c4b19-28b3-4a2f-b569-0074c858b3a3",
-      "price": 120.8,
-      "discount_percent": 13,
-      "notes": "hello  gg",
-      "retailer_name": "Dhanashree medical stores",
-      "retailer_type": "Pharmacy",
-      "cordinates": {
-        "longitude": 18.4517395847945,
-        "latitude": 73.8243554905057
-      }
-    }
-  ]
+
 }
